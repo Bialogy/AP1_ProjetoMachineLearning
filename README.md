@@ -1,3 +1,6 @@
+Alunas:
+Ana Beatriz & Isabelle
+
 ## 1. Escolha e apresentação do dataset
 
 ### Nome do conjunto de dados
